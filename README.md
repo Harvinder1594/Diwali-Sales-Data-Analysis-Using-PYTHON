@@ -14,4 +14,5 @@ PERFORMING EDA--Exploratory DAta Analysis to study
 4. Marital-Status Vs Sales Data.
 5. Occupation vs sales Data.
 6. Product-category vs sales data.
+   
 #Conclusion---women of 26-35 age group belonging top UP, Maharastra ,Karnatka working in IT,HealthCare, Aviation are more likely to buy products from Food, Clothing and Electronics category.
